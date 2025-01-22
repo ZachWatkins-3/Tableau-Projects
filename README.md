@@ -1,6 +1,6 @@
 # Tableau-Projects
 A collection of Tableau projects that I have completed.
 
-The project titled "British Airways Review.twb" 
+The project titled "British Airways Review.twb" takes a look at customer reviews of British Airways based upon 7 key metrics: cabin staff service, entertainment, food, ground service, seat comfort, value, and finally their overall rating. These ratings are grouped by month, country, and aircraft. The results can be filtered based upon metric, month, continent, seat type, aircraft, and traveler type. These ratings are very detailed and could help a company identify different areas in which they could improve and where their customers are satisfied along with what aircrafts are seen as more desirable for travelers.
 
 The project titled "Seattle Airbnb Prices (2016).twb" takes a look at Airbnb prices found throughout the Seattle area in 2016. The visual created with this data provides the average price of an Airbnb rental in each zip code, the total revenue per week throughout the entire year, and the average nightly price per number of bedrooms, along with how many listings have each number of bedrooms. Although the data is outdated if completed with new data this could help Airbnb hosts rent their property for a value which is in line with other hosts' prices and also could help hosts find which houses and features could provide them with the most revenue.
